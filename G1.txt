@@ -1,1 +1,3 @@
 status = 'success'
+data = 'success'
+data=['success']
