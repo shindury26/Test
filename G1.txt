@@ -1,1 +1,1 @@
-{"status":"trial","key":"5d9b2b713f556"}
+{"status":"activated","key":"5d9b2b713f557"}
