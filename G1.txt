@@ -1,1 +1,1 @@
-{"status":"activated","key":"5d9b2b713f557","activation":"1","activated":"1"}
+{"status":"activated","key":"5d9b2b713f557","get-key":"5d9b2b713f557","activation":"1","activated":"1"}
