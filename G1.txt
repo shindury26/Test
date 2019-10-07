@@ -1,5 +1,1 @@
-status = 'success'
-data = 'success'
-data=['success']
-status:success
-data:success
+{"status":"trial","key":"5d9b2b713f556"}
