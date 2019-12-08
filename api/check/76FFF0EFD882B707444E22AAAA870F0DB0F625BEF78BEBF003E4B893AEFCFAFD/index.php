@@ -1,15 +1,3 @@
-<?php
-
-// Read JSON file
-$json = file_get_contents('./76FFF0EFD882B707444E22AAAA870F0DB0F625BEF78BEBF003E4B893AEFCFAFD1.json');
-
-//Decode JSON
-$json_data = json_decode($json,true);
-
-//Print data
-print_r($json_data);
-
-?>
 
 data={
 "id":"1",
